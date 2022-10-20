@@ -1,14 +1,18 @@
 {
-  "posts": [
+  "dogs": [
     {
       "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     },
     {
-      "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
 }
